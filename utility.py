@@ -12,3 +12,7 @@ def get_data(txt):
 def get_user_in_lower(name):
     name=name.lower()
     return name
+
+def get_user_in_capital(name):
+    name=name.upper()
+    return name
